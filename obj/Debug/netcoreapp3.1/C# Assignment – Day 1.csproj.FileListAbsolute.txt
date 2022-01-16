@@ -1,0 +1,13 @@
+E:\core rok\C# Assignment – Day 1\bin\Debug\netcoreapp3.1\C# Assignment – Day 1.exe
+E:\core rok\C# Assignment – Day 1\bin\Debug\netcoreapp3.1\C# Assignment – Day 1.deps.json
+E:\core rok\C# Assignment – Day 1\bin\Debug\netcoreapp3.1\C# Assignment – Day 1.runtimeconfig.json
+E:\core rok\C# Assignment – Day 1\bin\Debug\netcoreapp3.1\C# Assignment – Day 1.runtimeconfig.dev.json
+E:\core rok\C# Assignment – Day 1\bin\Debug\netcoreapp3.1\C# Assignment – Day 1.dll
+E:\core rok\C# Assignment – Day 1\bin\Debug\netcoreapp3.1\C# Assignment – Day 1.pdb
+E:\core rok\C# Assignment – Day 1\obj\Debug\netcoreapp3.1\C# Assignment – Day 1.csprojAssemblyReference.cache
+E:\core rok\C# Assignment – Day 1\obj\Debug\netcoreapp3.1\C# Assignment – Day 1.AssemblyInfoInputs.cache
+E:\core rok\C# Assignment – Day 1\obj\Debug\netcoreapp3.1\C# Assignment – Day 1.AssemblyInfo.cs
+E:\core rok\C# Assignment – Day 1\obj\Debug\netcoreapp3.1\C# Assignment – Day 1.csproj.CoreCompileInputs.cache
+E:\core rok\C# Assignment – Day 1\obj\Debug\netcoreapp3.1\C# Assignment – Day 1.dll
+E:\core rok\C# Assignment – Day 1\obj\Debug\netcoreapp3.1\C# Assignment – Day 1.pdb
+E:\core rok\C# Assignment – Day 1\obj\Debug\netcoreapp3.1\C# Assignment – Day 1.genruntimeconfig.cache
