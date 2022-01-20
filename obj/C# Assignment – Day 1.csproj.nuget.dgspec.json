@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\New folder\\AssignmentDay 1\\C# Assignment – Day 1.csproj": {}
+    "E:\\New folder\\AssignmentDay 1\\C# Assignment – Day 1.csproj": {}
   },
   "projects": {
-    "e:\\New folder\\AssignmentDay 1\\C# Assignment – Day 1.csproj": {
+    "E:\\New folder\\AssignmentDay 1\\C# Assignment – Day 1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\New folder\\AssignmentDay 1\\C# Assignment – Day 1.csproj",
+        "projectUniqueName": "E:\\New folder\\AssignmentDay 1\\C# Assignment – Day 1.csproj",
         "projectName": "C# Assignment – Day 1",
-        "projectPath": "e:\\New folder\\AssignmentDay 1\\C# Assignment – Day 1.csproj",
+        "projectPath": "E:\\New folder\\AssignmentDay 1\\C# Assignment – Day 1.csproj",
         "packagesPath": "C:\\Users\\DELL VOSTRO\\.nuget\\packages\\",
-        "outputPath": "e:\\New folder\\AssignmentDay 1\\obj\\",
+        "outputPath": "E:\\New folder\\AssignmentDay 1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL VOSTRO\\AppData\\Roaming\\NuGet\\NuGet.Config"
